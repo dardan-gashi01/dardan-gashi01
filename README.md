@@ -8,7 +8,6 @@ I have been learning to code for 5 years now and it all began with Python and no
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [dardan-gashi01@outlook.com](mailto:dardan-gashi01@outlook.com)
-* 🧠  I'm learning Solidity
 
 ### Skills
 
