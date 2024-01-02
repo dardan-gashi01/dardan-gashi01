@@ -1,14 +1,6 @@
 Hi 👋 My name is Dardan Gashi
 =============================
 
-Product Engineer
-------------------
-
-I have been coding for 5 years now and it all began with Python and now I am a product engineer at a startup where I am active in the front end and backend development of our service
-
-* 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [dardan-gashi01@outlook.com](mailto:dardan-gashi01@outlook.com)
-
 ### Skills
 
 <p align="left">
